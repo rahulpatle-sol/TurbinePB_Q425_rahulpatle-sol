@@ -1,0 +1,6 @@
+[submodule "rustling"]
+	path = rustling
+	url = https://github.com/rahulpatle-sol/rustling.git
+[submodule "exam-sol"]
+	path = exam-sol
+	url = https://github.com/rahulpatle-sol/Exam.sol.git
