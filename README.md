@@ -12,7 +12,7 @@
 - `guessing_game/` — Random number generator CLI game
 - `hello_anchor/` — Hello Solana program using Anchor framework
 - `anchor_counter/` — Counter program built with Anchor
-- `grades_tracker/` — Grade tracking logic in Anchor
+-'exam-sol/'  -  Exam  onchain tool with use case of solana
 - `rustlings/` — My solutions to Rustlings exercises
 
 ---
