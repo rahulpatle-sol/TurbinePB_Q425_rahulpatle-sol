@@ -24,3 +24,13 @@ Clone the repository:
 ```bash
 git clone https://github.com/rahulpatle-sol/TurbinePB_Q425_rahulpatle-sol.git
 cd TurbinePB_Q425_rahulpatle-sol
+git submodule update --init --recursive
+ cargo build
+cargo  run
+# for anchor and solana
+anchor build
+anchor deploy
+anchor test
+---
+
+##  view your programe signature in  solana explorers
